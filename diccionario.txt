@@ -1,0 +1,4 @@
+Café: Coffe
+Mesa: Table
+Calle: Street
+Pelota: Ball
